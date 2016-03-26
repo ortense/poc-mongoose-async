@@ -1,0 +1,14 @@
+{
+  "name": "poc-mongoose-async",
+  "version": "0.0.1",
+  "description": "Prova de conceito utilizando mongoose e async",
+  "main": "index.js",
+  "author": "Marcus Ortense",
+  "license": "MIT",
+  "dependencies": {
+    "async": "^2.0.0-rc.2",
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4",
+    "mongoose": "^4.4.10"
+  }
+}
